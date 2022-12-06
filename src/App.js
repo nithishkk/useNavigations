@@ -8,7 +8,7 @@ function App() {
   }
   return (
     <div>
-      
+      <p>nithish</p>
       <button onClick={handleClick}>go home</button>
     </div>
   );
